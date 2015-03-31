@@ -2,6 +2,8 @@
 
 Simple MediaWiki extension for embedding content of files hosted in GitHub git repositories.
 
+Includes very crude GeSHi syntanx highlighing and language detection of loaded files.
+
 Build status:
 [![Build Status](https://secure.travis-ci.org/JeroenDeDauw/GitHub.png?branch=master)](http://travis-ci.org/JeroenDeDauw/GitHub)
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/JeroenDeDauw/GitHub/badges/quality-score.png?s=b928c81a24ec2d8fcf6dd2b291b41c76ef528dbe)](https://scrutinizer-ci.com/g/JeroenDeDauw/GitHub/)
